@@ -12,5 +12,19 @@
       "imageUrl": "https://source.unsplash.com/user/c_v_r",
       "releaseYear": 2043,
       "artistName": "Ykä Jeee"
+    },
+    {
+      "id": 3,
+      "title": "Juu jeee",
+      "imageUrl": "https://source.unsplash.com/user/c_v_r",
+      "releaseYear": 2001,
+      "artistName": "Heke hei"
+    },
+    {
+      "id": 4,
+      "title": "Sitä tuli",
+      "imageUrl": "https://source.unsplash.com/user/c_v_r",
+      "releaseYear": 2043,
+      "artistName": "Pele Jeee"
     }
   ]
