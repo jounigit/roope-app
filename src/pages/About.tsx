@@ -1,9 +1,11 @@
 import React from 'react';
+// import { SiteContent } from '../styles/styles';
 
 const About: React.FC = () => (
-  <>
-    <p>About..</p>
-  </>
+  <h1>About..</h1>
+  // <SiteContent>
+  //   <h1>About..</h1>
+  // </SiteContent>
 );
 
 export default About;

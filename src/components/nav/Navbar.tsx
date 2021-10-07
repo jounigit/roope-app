@@ -10,7 +10,8 @@ const Nav = styled.nav`
   padding: 0 20px;
   display: flex;
   justify-content: space-between;
-  background-color: #607bc4;
+  background:rgba(255,255,255,0.5);
+  /* background-color: #607bc4; */
 
   .logo {
     padding: 15px 0;
@@ -18,14 +19,14 @@ const Nav = styled.nav`
 `;
 
 const Navbar: FC = () => (
-  <>
-    <Nav>
-      {/* <div className="logo">
+
+  <Nav>
+    {/* <div className="logo">
         Nav Bar
       </div> */}
-      <Burger />
-    </Nav>
-  </>
+    <Burger />
+  </Nav>
+
 );
 
 export default Navbar;

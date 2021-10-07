@@ -27,7 +27,7 @@ const StyledBurger = styled.div<INav>`
     height: 0.25rem;
     background-color: ${({ open }) => (open ? '#ccc' : '#333')};
     border-radius: 10px;
-    transform-origin: 1px;
+    /* transform-origin: 1px;
     transition: all 0.3s linear;
 
     &:nth-child(1) {
@@ -41,7 +41,7 @@ const StyledBurger = styled.div<INav>`
 
     &:nth-child(3) {
       transform: ${({ open }) => (open ? 'rotate(-45deg)' : 'rotate(0)')};
-    }
+    } */
   }
 `;
 
